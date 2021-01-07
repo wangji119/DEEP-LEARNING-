@@ -2,7 +2,7 @@
 The purpose of this project is image classification.  
 All folder names and file names in the project should not be changed. The folder data_set is the directory used to store the training samples, and it should be placed in the C:/Users. 
 In this project, we compared two networks, RESNET and GoogleNet. The following picture shows the main structure of ALL ResNets：  
-![RESNET](https://raw.githubusercontent.com/fujunpeng/machine_learning_and_transportation_2020_project2/main/resnet34/RESNET.png)   
+![RESNET](https://raw.githubusercontent.com/wangji119/DEEP-LEARNING-/master/resnet34/RESNET.png)   
 
 And the following picture shows the overall structure of GoogleNet：
 
